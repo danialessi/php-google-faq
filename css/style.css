@@ -46,15 +46,20 @@ img {
 .faq-container {
     width: 75%;
     margin: auto;
-    padding-top: 65px;
+    
 }
 
 h2 {
+    padding-top: 65px;
     line-height: 30px;
 }
 
 p {
     line-height: 20px;
-    margin-top: 20px;
+    margin: 20px 0;
+}
+
+a {
+    text-decoration: none;
 }
 /* end FAQ  */
